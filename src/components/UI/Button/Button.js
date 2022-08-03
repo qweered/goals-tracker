@@ -14,7 +14,7 @@ const Button = styled.button`
   &:focus {
     outline: none;
   }
-
+  
   &:hover,
   &:active {
     background: #ac0e77;
